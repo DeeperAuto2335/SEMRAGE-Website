@@ -39,7 +39,7 @@ O layout da aplicação está disponível no Figma:
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
-#### **Website**  ([HTML](https://reactjs.org/)  +  [CSS](https://www.typescriptlang.org/) + [JavaScript](https://www.javascript.com/))
+#### **Website**  ([HTML](#)  +  [CSS](#) + [JavaScript](https://www.javascript.com/))
 
 -   **[HTML](https://github.com/DeeperAuto2335/SEMRAGE-Website/blob/master/index.html)**
 -   **[CSS](https://github.com/DeeperAuto2335/SEMRAGE-Website/blob/master/styles/style.css)**
